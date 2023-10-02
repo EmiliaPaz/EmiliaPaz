@@ -1,5 +1,5 @@
-# Hello, folks!
-Hey! I'm Emilia, a software engineer from Arequipa, Peru 🇵🇪 living San Francisco, CA. 📍. I enjoy turning complex problems into clean, elegant and intiutive designs 💡. With a skillset across frontend, design and backend, I love to create fullstack products that are friendly for devs 💻 and engaging for users 🤟.
+# Hi everyone!
+I'm Emilia, a software engineer from Arequipa, Peru 🇵🇪 living San Francisco, CA. 📍. I enjoy turning complex problems into clean, elegant and intiutive designs 💡. With a skillset across frontend, design and backend, I love to create fullstack products that are friendly for devs 💻 and engaging for users 🤟.
 
 ## Work
 Currently working in enabling users to safely extend their Chrome browser experience as part of the Chrome Extensions team, while collaborating with the Open Source community. My contributions can be found in [Gerrit](https://chromium-review.googlesource.com/q/owner:emiliapaz@chromium.org).
